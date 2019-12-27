@@ -1,0 +1,18 @@
+{
+    "name": "devlocker.animations.quickclipeditor",
+    "displayName": "Quick Clip Editor",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "Better way of editing and reviewing animations in an FBX.\n - Can edit multiple animations from different FBXs without the needing to apply settings.\n - Shows time line of events and each event separately for easier edit.\n - Copy / Paste events.\n - FBX Animations overview that shows warnings and errors.\n - Easy way to search and navigate animations in fbx / folder. Search animations by events.\nDrawbacks:\n - Needs to be used with inspector preview to watch actual preview.\n\nUsage: \"Tools/Quick Clip Editor\"",
+	"category": "Animations",
+    "keywords": [
+        "assets",
+        "tools",
+        "animations"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NibbleByte/QuickClipEditor.git"
+    }
+}
